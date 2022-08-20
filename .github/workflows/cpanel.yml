@@ -1,8 +1,8 @@
-on: 
+on:
   push:
     branches:
       - main
-name: 🚀 Deploy website on push
+name: 🚀 Deploy website yallaz.org
 jobs:
   web-deploy:
     name: 🎉 Deploy
